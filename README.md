@@ -6,18 +6,11 @@
 
 ### 🛠️ Мой технологический стек
 
-<p align="left">
-  <!-- Python -->
-  <img src="https://githubusercontent.com" alt="Python" width="40" height="40" style="margin-right: 15px;" />
-  <!-- JavaScript -->
-  <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40" style="margin-right: 15px;" />
-  <!-- HTML5 -->
-  <img src="https://githubusercontent.com" alt="HTML5" width="40" height="40" style="margin-right: 15px;" />
-  <!-- CSS3 -->
-  <img src="https://githubusercontent.com" alt="CSS3" width="40" height="40" style="margin-right: 15px;" />
-  <!-- Figma -->
-  <img src="https://githubusercontent.com" alt="Figma" width="40" height="40" />
-</p>
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Figma](https://shields.io)
 
 
 ---
