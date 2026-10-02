@@ -6,23 +6,25 @@
 
 ### 🛠️ Мой технологический стек
 
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Figma](https://shields.io)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### 🧠 ИИ & Локальные LLM
 
-<img src="https://vercel.app" alt="AI Banner" />
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistralai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 
 Интересуюсь сферой искусственного интеллекта и развертыванием нейросетей на локальном железе:
 * 🛠️ Экспериментирую с локальным запуском больших языковых моделей (**LLM**) через **Ollama** / **Llama.cpp**.
 * ⚡ Изучаю интеграцию нейросетей в прикладные скрипты автоматизации и веб-приложения через API.
-* 🤖 Тестирую открытые Open-Source модели (*Llama 3*, *Mistral*, *Gemma*, *DeepSeek*).
+* 🤖 Тестирую открытые Open-Source модели (*Llama 3*, *Qwen*, *Gemma*, *DeepSeek*).
 
 ---
 
@@ -30,9 +32,9 @@
 
 Здесь собраны работы, в которых я практикуюсь в веб-технологиях:
 
-* 🌐 **[MyPortfolio](https://github.com)** — Личный сайт-портфолио, где я демонстрирую свои навыки и резюме.
-* 🎨 **[Designer-practice](https://github.com)** — Практические работы по веб-дизайну и интерфейсам.
-* 🚗 **[autoshumanet](https://github.com)** — Проект по адаптивной верстке веб-страниц.
+* 🌐 **[MyPortfolio](https://github.com/gugoka/MyPortfolio)** — личный сайт-портфолио, где я демонстрирую свои навыки и резюме.
+* 🎨 **[Designer-practice](https://github.com/gugoka/Designer-practice)** — сайт-тренажёр по веб-дизайну и интерфейсам.
+* 🚗 **[autoshumanet](https://github.com/gugoka/autoshumanet)** — проект по созданию лендинга автосервиса.
 
 ---
 
