@@ -1,16 +1,46 @@
-## Hi there 👋
+# Привет! Я Егор 👋 (@gugoka)
 
-<!--
-**gugoka/gugoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий **Frontend-разработчик** и **Веб-дизайнер**. Мне нравится создавать визуально привлекательные, современные и удобные интерфейсы, а затем воплощать их в чистом коде.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мой технологический стек
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  
+  <!-- Инструменты дизайна -->
+  <img src="https://shields.io" alt="Figma" />
+</p>
+
+---
+
+### 📂 Мои проекты
+
+Здесь собраны мои ключевые работы, в которых я практикуюсь в дизайне и верстке:
+
+* **[MyPortfolio](https://github.com)** — Мой личный сайт-портфолио, где я демонстрирую свои навыки, проекты и резюме.
+* **[Designer-practice](https://github.com)** — Сайт с тренажёрами по веб-дизайну и интерфейсам.
+* **[autoshumanet](https://github.com)** — Проект сайта для автосервиса (работа со стилями, адаптивностью и структурой).
+
+---
+
+### 📈 Статистика GitHub
+
+<p align="left">
+  <img src="https://vercel.app" alt="Статистика GitHub Егора" height="150" />
+  <img src="https://vercel.app" alt="Популярные языки Егора" height="150" />
+</p>
+
+---
+
+<!-- ### 📫 Как со мной связаться -->
+
+<!-- * **GitHub:** Вы прямо здесь! 🚀 -->
+<!-- Совет: Раскомментируйте строки ниже, заменив ссылки на свои реальные контакты -->
+<!-- * **Telegram:** [@ваш_ник](https://t.me) -->
+<!-- * **Email:** your_email@example.com -->
+<!-- * **LinkedIn:** [Ваше Имя](https://linkedin.com) -->
