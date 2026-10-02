@@ -6,28 +6,14 @@
 
 ### 🛠️ Мой технологический стек
 
+### 🛠️ Мой технологический стек
+
 <p align="left">
-  <!-- Python -->
-  <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="Python" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <!-- JavaScript -->
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="JavaScript" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <!-- HTML5 -->
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="HTML5" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <!-- CSS3 -->
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="CSS3" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <!-- Figma -->
-  <a href="https://figma.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="Figma" width="45" height="45" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Мой стек технологий" />
   </a>
 </p>
+
 
 ---
 
